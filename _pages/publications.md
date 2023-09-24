@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Journal articles
 
-{% include base_path %}
+Patrick Littell, David R. Mortensen, **Ke Lin**, Katherine Kairis, Carlisle Turner, Lori Levin. "Uriel and lang2vc: Representing languages as typological, geographical, and phylogenetic vectors." *European Chapter of the Association for Computational Linguistics* (April 2017)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+## Conferendce proceedings 
+
+2023./ **Ke Lin**. Can L2 Speakers perceive sociopragmatic nuances at the sound level? Exploring Chinese listeners’ perceptions of (ING). In: *Proceedings of the 20th international congress of phonetic sciences.* Prague: ICPhS 2023.
+
