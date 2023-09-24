@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "News"
+  #- title: "News"
     # url: /year-archive/
-    url: /posts/
+    #url: /posts/
 
-  - title: "Research"
-    url: /portfolio/
+  #- title: "Research"
+   # url: /portfolio/
 
   - title: "Talks"
     url: /talks/
