@@ -7,7 +7,7 @@ author_profile: true
 
 **Ke Lin**. 2024. *Methods in assessing VOT convergence patterns in L2 English speech.* Poster to be presented at 2024 LSA Annual Meeting, New York City.
 
-**Ke Lin**, 2023. *You are not a native speaker, but I want to sound like you: Unveiling alternative VOT convergence patterns in L2 English speech.* Paper to be presented at the 51st New Ways of Analyzing Language (NWAV51), Queens College, New York City.
+**Ke Lin**. 2023. *You are not a native speaker, but I want to sound like you: Unveiling alternative VOT convergence patterns in L2 English speech.* Paper to be presented at the 51st New Ways of Analyzing Language (NWAV51), Queens College, New York City.
 
 **Ke Lin**. 2023. *Can L2 Speakers perceive sociopragmatic nuances at the sound level? Exploring Chinese listeners’ perceptions of (ING)*. Poster presented at the 20th International Congress of Phonetic Sciences (ICPhS 2023), Prague.
 

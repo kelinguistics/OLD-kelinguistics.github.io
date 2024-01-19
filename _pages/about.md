@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a fourth-year Ph.D. candidate studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). I am advised by [Dr. Jennifer Nycz](http://www.jennifernycz.com/). 
+I'm a fourth-year Ph.D. candidate studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). 
 
 Before coming to Georgetown, I earned an MA in Slavic Linguistics at The Ohio State University, where I also indepedently taught Russian language courses for two years. My master's thesis investigated the social perceptions of non-native accents in Russian.
 
