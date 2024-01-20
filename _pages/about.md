@@ -26,7 +26,7 @@ Most recently, for my dissertation work, I am designing experiments to assess bi
 Abstract on VOT convergence accepted as a talk at [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/).
 
 **👉 January 17th, 2024**<br>
-Abstract on VOT perception accepted as a poster to [ICLaVE12](https://iclave12.dioe.at/).
+Abstract on VOT perception accepted as a poster to [ICLaVE12](https://iclave12.dioe.at/). 🇦🇹 
 
 **👉 January 4th – 7th, 2024**<br>
 Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813) and presented a poster, *Methods in assessing VOT convergence patterns in L2 English speech*.
