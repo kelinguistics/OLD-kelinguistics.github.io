@@ -22,13 +22,13 @@ Most recently, for my dissertation work, I am designing experiments to assess bi
 ##  RECENT NEWS & UPDATES
 
 
-**👉 January 19th, 2024**&nbsp;&nbsp;&nbsp;&nbsp;Abstract on VOT convergence accepted as a talk at [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/).
+**👉 January 19th, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstract on VOT convergence accepted as a talk at [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/).
 
 
-**👉 January 17th, 2024**&nbsp;&nbsp;&nbsp;&nbsp;Abstract on VOT perception accepted as a poster to [ICLaVE12](https://iclave12.dioe.at/)!
+**👉 January 17th, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstract on VOT perception accepted as a poster to [ICLaVE12](https://iclave12.dioe.at/)!
 
 
-**👉 January 4th – 7th, 2024**&nbsp;&nbsp;&nbsp;&nbsp;Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813) and presented a poster, *Methods in assessing VOT convergence patterns in L2 English speech*. 
+**👉 January 4th – 7th, 2024**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/public/4438/information?page=1813) and presented a poster, *Methods in assessing VOT convergence patterns in L2 English speech*. 
 
 
-**👉 December 19th, 2023**&nbsp;&nbsp;&nbsp;&nbsp;Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a talk at the 15th Linguistic Landscape 🍖🍜🥟[(LL15)](https://linguisticlandscape15.weebly.com/), to be held in New Zealand in June! 🇳🇿🦤 
+**👉 December 19th, 2023**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a talk at the 15th Linguistic Landscape 🍖🍜🥟[(LL15)](https://linguisticlandscape15.weebly.com/), to be held in New Zealand in June! 🇳🇿🦤 
