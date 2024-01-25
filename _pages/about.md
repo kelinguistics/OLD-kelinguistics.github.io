@@ -9,18 +9,27 @@ redirect_from:
 ---
 
 
-I'm a fourth-year Ph.D. candidate studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). 
+I'm a fourth-year Ph.D. candidate studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). Currently, I am working on my dissertation project, assessing *** Mandarin-English bilinguals and Russian-English bilinguals' ***implicit*** and ***explicit*** perceptual adjustments on VOT boundaries as a function of beliefs about talker's native language status. This dissertation is advised by [Elizabeth Zsiga](https://zsigae.com/), [Lourdes Ortega](https://en.wikipedia.org/wiki/Lourdes_Ortega), [Lacey Wade](https://laceywade.github.io/), and [Sarah Phillips](https://sarahfphillips.com/).
 
 Before coming to Georgetown, I earned an MA in Slavic Linguistics at The Ohio State University, where I also indepedently taught Russian language courses for two years. My master's thesis investigated the social perceptions of non-native accents in Russian.
 
-My current research centers on the field of sociophonetics. As a sociophonetician, I explore the intricate relationship between social cues and their impact on both speech perception and production. I am also interested in the phenomenon of speech convergence, the process through which speakers align their speech patterns at various phonetic levels. 
+Broadly, my research centers on the field of sociophonetics. As a sociophonetician, I explore the intricate relationship between social cues and their impact on both speech perception and production. I am also interested in the phenomenon of speech convergence, the process through which speakers align their speech patterns at various phonetic levels. 
 
-Most recently, for my dissertation work, I am designing experiments to assess bilingual and L2 speakers' speech perception as a function of beliefs on a model talker's native langauge status.
+Here are some of my other ongoing research projects/interests, varying in scope and development. I welcome proposals for collaboration or discussions on these topics:
+
+- Social speech perception & production among/by L2 speakers;
+- Accessible & affordable eye-tracking methods;
+- Mergers and splits in Sichuan and Dongbei dialects;
+- Semantic clusters and distributions of Russian prepositions
+
+
 
 🏃‍♀️💃🏞 When I am not working, I enjoy ballroom dancing, running, and hiking in the countryside. 
 
 ##  RECENT NEWS & UPDATES
 
+**👉 January 24th, 2024**<br>
+Passed my dissertation proposal defense! 🙏🏁
 
 **👉 January 19th, 2024**<br>
 Abstract on VOT convergence accepted as a talk at [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/).

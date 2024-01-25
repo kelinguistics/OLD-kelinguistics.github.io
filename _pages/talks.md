@@ -4,11 +4,11 @@ title: "Selected Presentations"
 permalink: /talks/
 author_profile: true
 ---
-**Ke Lin**. 2024. *VOT in the bilingual mind: the role of speaker race in L2 listeners' VOT perception* Poster to be presented at the 12th International Conference on Language Variation in Europe (ICLaVE12), Austrian Academy of Sciences, Vienna.
+**Ke Lin**. 2024. *VOT in the bilingual mind: the role of speaker race in L2 listeners' VOT perception*. Poster to be presented at the 12th International Conference on Language Variation in Europe (ICLaVE12), Austrian Academy of Sciences, Vienna.
 
-**Ke Lin**. 2024. *Ethnographic linguistic landscape analysis of Uyghur restaurants in the DMV* Paper to be presented at the 15th Linguistic Landscape workshop (LL15), Wellington, New Zealand.
+**Ke Lin**. 2024. *Ethnographic linguistic landscape analysis of Uyghur restaurants in the DMV*. Paper to be presented at the 15th Linguistic Landscape workshop (LL15), Wellington, New Zealand.
 
-**Ke Lin**. 2024. *Perceived L1 Status on VOT convergence: Evidence for Enhanced Convergence towards the Non-native Speaker* Paper to be presented at The 48th Penn Linguistics Conference (PLC48), University of Pennsylvania, Philadelphia.
+**Ke Lin**. 2024. *Perceived L1 Status on VOT convergence: Evidence for Enhanced Convergence towards the Non-native Speaker*. Paper to be presented at The 48th Penn Linguistics Conference (PLC48), University of Pennsylvania, Philadelphia.
 
 **Ke Lin**. 2024. *Methods in assessing VOT convergence patterns in L2 English speech.* Poster presented at 2024 LSA Annual Meeting, New York City.
 
