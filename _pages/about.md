@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a fourth-year Ph.D. candidate studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). Currently, I am working on my dissertation project, assessing *** Mandarin-English bilinguals and Russian-English bilinguals' ***implicit*** and ***explicit*** perceptual adjustments on VOT boundaries as a function of beliefs about talker's native language status. This dissertation is advised by [Elizabeth Zsiga](https://zsigae.com/), [Lourdes Ortega](https://en.wikipedia.org/wiki/Lourdes_Ortega), [Lacey Wade](https://laceywade.github.io/), and [Sarah Phillips](https://sarahfphillips.com/).
+I'm a fourth-year Ph.D. candidate studying [Linguistics at Georgetown University](https://linguistics.georgetown.edu/). Currently, I am working on my dissertation project, assessing Mandarin-English bilinguals and Russian-English bilinguals' ***implicit*** and ***explicit*** perceptual adjustments on VOT boundaries as a function of beliefs about talker's native language status. This dissertation is advised by [Elizabeth Zsiga](https://zsigae.com/), [Lourdes Ortega](https://en.wikipedia.org/wiki/Lourdes_Ortega), [Lacey Wade](https://laceywade.github.io/), and [Sarah Phillips](https://sarahfphillips.com/).
 
 Before coming to Georgetown, I earned an MA in Slavic Linguistics at The Ohio State University, where I also indepedently taught Russian language courses for two years. My master's thesis investigated the social perceptions of non-native accents in Russian.
 
