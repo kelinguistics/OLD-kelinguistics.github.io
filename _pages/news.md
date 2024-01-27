@@ -22,7 +22,7 @@ Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a
 
 **October 13th - 15th, 2023**<br>
 Attended [NWAV(51)](https://nwav51.org/) and gave a talk on VOT convergence patterns exhibited by Mandarin speakers of L2 English in a contextualized shadow task.<br>
-<img src="/path/to/your/nwav.jpeg" width="300" />
+<img src="/files/nwav.jpeg" width="300" />
 
 
 **August 7th – 11th, 2023**<br>
