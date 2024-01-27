@@ -20,10 +20,10 @@ Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/publ
 **December 19th, 2023**<br>
 Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a talk at the 15th Linguistic Landscape 🍖🍜🥟[(LL15)](https://linguisticlandscape15.weebly.com/), to be held in New Zealand in June! 🇳🇿🦤.
 
-**October 14, 2023**<br>
-Oral presentation on 
+**October 13th - 15th, 2023**<br>
+Attended [NWAV(51)](https://nwav51.org/) and gave a talk on VOT convergence patterns exhibited by Mandarin speakers of L2 English in a contextualized shadow task.
 
-**August 7–11, 2023**>><br>
+**August 7th – 11th, 2023**>><br>
 Attended [ICPHS](https://www.icphs2023.org/) in Prague and presented my poster on Mandarin listeners' perception of English (ING).
 ![](/files/icphs_poster.jpeg)
 
