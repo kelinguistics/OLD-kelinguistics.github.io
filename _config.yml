@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ke's Homepage"
 title_separator          : "-"
-name                     : &name "Ke Lin｜林可"
+name                     : &name "Ke Lin"
 description              : &description "Linguistics Ph.D. Candidate"
 url                      : https://kelinguistics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
