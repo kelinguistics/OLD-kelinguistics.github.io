@@ -26,7 +26,7 @@ Here are some of my other ongoing research projects/interests, varying in scope 
 
 🏃‍♀️💃🏞 When I am not working, I enjoy ballroom dancing, running, and hiking in the countryside. 
 
-##  RECENT NEWS & UPDATES
+##  [RECENT NEWS & UPDATES](/news/)
 
 **👉 January 24th, 2024**<br>
 Passed my dissertation proposal defense! 🙏🏁

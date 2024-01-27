@@ -25,6 +25,6 @@ Attended [NWAV(51)](https://nwav51.org/) and gave a talk on VOT convergence patt
 
 **August 7th – 11th, 2023**<br>
 Attended [ICPHS](https://www.icphs2023.org/) in Prague and presented my poster on Mandarin listeners' perception of English (ING).
-![](/files/icphs_poster.jpg)
+
 
 
