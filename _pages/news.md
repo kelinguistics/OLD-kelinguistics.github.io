@@ -24,7 +24,10 @@ Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a
 Attended [NWAV(51)](https://nwav51.org/) and gave a talk on VOT convergence patterns exhibited by Mandarin speakers of L2 English in a contextualized shadow task.
 
 **August 7th – 11th, 2023**<br>
-Attended [ICPHS](https://www.icphs2023.org/) in Prague and presented my poster on Mandarin listeners' perception of English (ING).
+Attended [ICPHS](https://www.icphs2023.org/) in Prague 🇨🇿 and presented my poster on Mandarin listeners' perception of English (ING).<br>
+![](/files/icphs_poster.jpg)
 
-
+**June 1st – 2nd, 2023**<br>
+Attended [ViLA5](https://www.vila5.be/) in 🇧🇪 and presented a poster on audience effect on VOT convergence.<br>
+![](/files/nwav.jpeg)
 
