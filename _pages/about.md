@@ -43,4 +43,4 @@ Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/publ
 **👉 December 19th, 2023**<br>
 Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a talk at the 15th Linguistic Landscape 🍖🍜🥟[(LL15)](https://linguisticlandscape15.weebly.com/), to be held in New Zealand in June! 🇳🇿🦤.
 
-*Past events can be found [here](/news/)
+*Past events can be found [here](/news/).*
