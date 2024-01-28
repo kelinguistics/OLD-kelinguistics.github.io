@@ -26,7 +26,7 @@ Here are some of my other ongoing research projects/interests, varying in scope 
 
 🏃‍♀️💃🏞 When I am not working, I enjoy ballroom dancing, running, and hiking in the countryside. 
 
-##  [RECENT NEWS & UPDATES](/news/)
+## RECENT NEWS & UPDATES 
 
 **👉 January 24th, 2024**<br>
 Passed my dissertation proposal defense! 🙏🏁
@@ -42,3 +42,5 @@ Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/publ
 
 **👉 December 19th, 2023**<br>
 Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a talk at the 15th Linguistic Landscape 🍖🍜🥟[(LL15)](https://linguisticlandscape15.weebly.com/), to be held in New Zealand in June! 🇳🇿🦤.
+
+*Past events can be found [here](/news/)
