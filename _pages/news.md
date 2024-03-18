@@ -21,7 +21,7 @@ Attended [LSA's Annual Meeting](https://virtual.oxfordabstracts.com/#/event/publ
 Paper on the linguistic landscape of Uyghur restaurants in the DMV accepted as a talk at the 15th Linguistic Landscape 🍖🍜🥟[(LL15)](https://linguisticlandscape15.weebly.com/), to be held in New Zealand in June! 🇳🇿🦤.
 
 **November 13th, 2023**<br>
-Awarded a [**Fall 2023 Conference Travel Grant**](https://grad.georgetown.edu/fellowships-and-awards/funding_grad_student/conference-travel-grants/)! <br>
+Awarded a [Fall 2023 Conference Travel Grant](https://grad.georgetown.edu/fellowships-and-awards/funding_grad_student/conference-travel-grants/)! <br>
 
 **October 13th - 15th, 2023**<br>
 Attended [NWAV(51)](https://nwav51.org/) and gave a talk on VOT convergence patterns exhibited by Mandarin speakers of L2 English in a contextualized shadow task.<br>
