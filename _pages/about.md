@@ -28,8 +28,7 @@ Here are some of my other ongoing research projects/interests, varying in scope 
 
 ## RECENT NEWS & UPDATES 
 **🍃 March 16-17th, 2024**<br>
-I attended and presented at  the [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/schedulepage.html) in my hometown Philadelphia
-🔔! I presented my project on L2 VOT convergence and discussed possible social and psychological factors motivating the results I found.
+Attended [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/schedulepage.html) in my hometown Philadelphia🔔! I presented my project on L2 VOT convergence and discussed possible social and psychological factors motivating the results I found.
 
 **🍃 January 24th, 2024**<br>
 Passed my dissertation proposal defense! 🙏🏁
