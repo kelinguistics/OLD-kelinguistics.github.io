@@ -1,5 +1,5 @@
 ---
-title: "Hi there, I am Ke Lin!"
+title: "Ke Lin"
 permalink: /
 excerpt: "About me"
 author_profile: true
