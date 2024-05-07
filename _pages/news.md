@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 author_profile: true
 ---
+**🍃 May 3rd, 2024**<br>
+Presented preliminary findings from my ongoing project on bilinguals' social speech perception at [MASC_SLL](https://www.mascsll.org/) at John Hopkins University.
+
 **🍃 March 16-17th, 2024**<br>
 Attended [PLC48](https://www.ling.upenn.edu/Events/PLC/plc48/schedulepage.html) in my hometown Philadelphia🔔! I presented my project on L2 VOT convergence and discussed possible social and psychological factors motivating the results I found.
 
